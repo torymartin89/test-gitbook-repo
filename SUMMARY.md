@@ -1,4 +1,4 @@
 # Table of contents
 
-* [test gitbook repo](README.md)
+* [Contributing](README.md)
 
